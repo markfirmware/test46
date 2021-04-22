@@ -1,4 +1,4 @@
-image: markformware/bionic-test
+image: gitpod/workspace-base
 
 ports:
   - port: 5900
